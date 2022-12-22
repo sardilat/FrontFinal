@@ -1,0 +1,65 @@
+@tailwind base; 
+@tailwind components;
+@tailwind utilities;
+
+
+.icon-key {
+    padding-left: 25px;
+    background: url("https://res.cloudinary.com/ducsfn7np/image/upload/v1671389632/password_xdythp.png") no-repeat left;
+    background-size: 25px;
+    
+  }
+
+.icon-email {
+    padding-left: 25px;
+    background: url("https://res.cloudinary.com/ducsfn7np/image/upload/v1671389472/email_wagy8l.png") no-repeat left;
+    background-size: 25px;
+  }
+
+.icon-user {
+    padding-left: 25px;
+    background: url("https://static.thenounproject.com/png/1644591-200.png") no-repeat left;
+    background-size: 25px;
+  }
+
+.icon-image{
+    padding-left: 25px;
+    background: url("https://res.cloudinary.com/ducsfn7np/image/upload/v1671323230/imagen_mwjsed.png") no-repeat left;
+    background-size: 25px;
+
+}
+
+.icon-person{
+  padding-left: 25px;
+  background: url("https://res.cloudinary.com/ducsfn7np/image/upload/v1671389769/person_knlvpi.png") no-repeat left;
+  background-size: 25px;
+
+}
+
+.icon-logout{
+  padding-left: 25px;
+  background: url("https://res.cloudinary.com/ducsfn7np/image/upload/v1671390452/logout_npsrvu.png") no-repeat left;
+  background-size: 25px;
+ 
+}
+
+.icon-category{
+  padding-left: 25px;
+  background: url("https://res.cloudinary.com/ducsfn7np/image/upload/v1671391451/category_azgclb.png") no-repeat left;
+  background-size: 25px;
+ 
+}
+
+.icon-back{
+  padding-left: 25px;
+  background: url("https://res.cloudinary.com/ducsfn7np/image/upload/v1671393063/back_tr8o8c.png") no-repeat left;
+  background-size: 25px;
+ 
+}
+
+.icon-logo{
+  padding-left: 25px;
+  background: url("https://res.cloudinary.com/ducsfn7np/image/upload/v1671503438/icono_ryet2g.png") no-repeat left;
+  background-size: 25px;
+ 
+}
